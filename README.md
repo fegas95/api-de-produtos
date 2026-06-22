@@ -21,7 +21,7 @@ API REST para cadastro e gerenciamento de produtos, desenvolvida com FastAPI e P
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/products-api.git
+git clone https://github.com/seu-usuario/api-de-produtos.git
 cd products-api
 
 # Instale as dependências
